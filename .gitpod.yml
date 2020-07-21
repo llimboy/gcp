@@ -1,0 +1,4 @@
+image: google/cloud-sdk
+
+tasks:
+  - init: gcloud init
